@@ -1,183 +1,188 @@
 {
   "teachers": [
     {
-      "id": 1746651021373,
+      "id": 175128576594,
       "name": "حسين الهاشمي",
-      "subject": "مدرس مادة كيمياء",
-      "image": "https://i.imghippo.com/files/TGx2155hFs.jpg",
+      "subject": "كيمياء 2026",
+      "image": "https://i.imghippo.com/files/eiPJ5269dI.jpg",
       "classes": [
         {
-          "name": "الفصل الاول الثرموداينمك: ",
+          "name": "الفصل الأول",
           "lectures": [
             {
-              "title": "محاضرة 1",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/82d7366c-bba2-4a60-b377-e59bf0bea441"
-            },
-            {
-              "title": "محاضرة 2",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/1bb437da-2110-452a-b572-ac13e92ed637"
-            },
-            {
-              "title": "محاضرة 3",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/457a4343-f2b1-408c-b637-1ba07456c82c"
-            },
-            {
-              "title": "محاضرة 4",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/41000010-812b-4930-8f4f-93bef1f4b83a"
-            },
-            {
-              "title": "محاضرة 5",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/41000010-812b-4930-8f4f-93bef1f4b83a"
-            },
-            {
-              "title": "محاضرة 6",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/8b6b2cf8-d496-496f-87b2-8231952a776f"
-            },
-            {
-              "title": "محاضرة 7",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/dba7ac35-fb3f-4369-80fe-2f3ce162a856"
-            },
-            {
-              "title": "محاضرة 8",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/0b74902d-ac63-4e07-b1fc-e1173ee4e27a"
-            },
-            {
-              "title": "محاضرة 9",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/b094bc48-0c1e-47af-824f-6c982456f6e2"
-            },
-            {
-              "title": "محاضرة 10",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/56dab9ad-5895-4d2f-b0d9-954396636b6e"
-            },
-            {
-              "title": "محاضرة 11",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/dca007ef-d836-4ae1-9b19-1789f467e954"
-            },
-            {
-              "title": "محاضرة 12",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/fc4301c0-20e3-46f1-b798-02522bb01b13"
-            },
-            {
-              "title": "محاضرة 13",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/530308d2-89b7-48ec-8430-78059e770415"
-            },
-            {
-              "title": "محاضرة 14",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/deb2e48c-212f-406c-920d-c54a553e859f"
-            },
-            {
-              "title": "محاضرة 15",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/edcb3c63-9a3b-4c0e-b22d-d62fec61da65"
-            },
-            {
-              "title": "محاضرة 16",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/019f3bb6-3f34-4eb3-aabf-565952ff8358"
-            },
-            {
-              "title": "محاضرة 17",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/9c3b258c-95b1-4eac-86c8-906a2b49e5d2"
-            },
-            {
-              "title": "محاضرة 18",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/9b00d228-35d0-4902-b8bd-f841b406cfef"
-            },
-            {
-              "title": "محاضرة 19",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/2a822543-62d3-44e1-9ef5-c618390e97af"
-            },
-            {
-              "title": "محاضرة 20",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/0d66491b-13f0-46b3-9991-4c653f244cf1"
-            },
-            {
-              "title": "محاضرة 21",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/cef6d851-cd64-4929-8498-4eba1677d600"
-            },
-            {
-              "title": "محاضرة 22",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/6c302788-2abc-4efd-9636-d374626bcc7b"
-            },
-            {
-              "title": "محاضرة 23",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/2604da96-1b5b-47f5-83f0-7d4dfae90920"
-            },
-            {
-              "title": "محاضرة 24",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/f95794f1-5091-440d-886b-1fb23f808b7f"
-            },
-            {
-              "title": "محاضرة 25",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/708aacb8-23b2-4a76-89fb-e8d721ea737a"
-            },
-            {
-              "title": "محاضرة 26",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/7dea3736-4193-42c1-a02b-5bb4e7cbbb34"
-            },
-            {
-              "title": "محاضرة 27",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/6a29aed9-c068-4d53-8dcc-80ad26f8a7e8"
-            },
-            {
-              "title": "محاضرة 28",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/d9c3b5ab-2e35-486d-b6a4-3756b7806923"
-            },
-            {
-              "title": "محاضرة 29",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/56226acd-92cc-4dc5-acbf-9c87a02e77cb"
-            },
-            {
-              "title": "محاضرة 30",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/fd92f5a6-d50f-4dc9-803a-f9a4562344df"
-            },
-            {
-              "title": "محاضرة 31",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/32bda2f4-f534-4c83-bcb5-1dfca6d88993"
-            },
-            {
-              "title": "محاضرة 32",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/ada56e22-8d7d-4830-a7c1-61aa34402205"
-            },
-            {
-              "title": "محاضرة 33",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/e27ccb07-1a34-48de-97f9-21d5043b880b"
-            },
-            {
-              "title": "محاضرة 34",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/a7268bfa-9c77-4a06-8ecd-07060713a471"
+  "title": "شرح اول صفحة",
+      "description": "شرح اول صفحة",
+      "url": "https://iframe.mediadelivery.net/embed/519756/fb50e475-3095-4a6b-9ab6-21a5d2b807b3"
+    },
+    {
+      "title": "انواع النظام و قوانين الحرارة",
+      "description": "انواع النظام و قوانين الحرارة",
+      "url": "https://iframe.mediadelivery.net/embed/519756/fea4f660-441a-4ae4-b6d5-a6e7055f74b6"
+    },
+    {
+      "title": "مسائل الحرارة",
+      "description": "مسائل الحرارة",
+      "url": "https://iframe.mediadelivery.net/embed/519756/fde6b22b-5e4d-4e65-ae07-cf80e75d7e84"
+    },
+    {
+      "title": "شرحيات الانثالبي",
+      "description": "شرحيات الانثالبي",
+      "url": "https://iframe.mediadelivery.net/embed/519756/5c201e2a-cc62-42e5-98c6-d2e70429f5e3"
+    },
+    {
+      "title": "الماص و الباعث ومخطط الطاقة",
+      "description": "الماص و الباعث ومخطط الطاقة",
+      "url": "https://iframe.mediadelivery.net/embed/519756/8381e0ec-49a3-41e8-9bbf-edb5520b090a"
+    },
+    {
+      "title": "ملاحظات مسائل الحرارة",
+      "description": "ملاحظات مسائل الحرارة",
+      "url": "https://iframe.mediadelivery.net/embed/519756/3720984f-ae1f-44af-a804-57af52e4419e"
+    },
+    {
+      "title": "المسعر - الجزء الأول",
+      "description": "المسعر - الجزء الأول",
+      "url": "https://iframe.mediadelivery.net/embed/519756/b1b0bf1b-311a-42bc-8c55-819876730be1"
+    },
+    {
+      "title": "المسعر - الجزء الثاني",
+      "description": "المسعر - الجزء الثاني",
+      "url": "https://iframe.mediadelivery.net/embed/519756/aef8db91-f9c5-454a-b849-68c69019963b"
+    },
+    {
+      "title": "المسعر - الجزء الثالث",
+      "description": "المسعر - الجزء الثالث",
+      "url": "https://iframe.mediadelivery.net/embed/519756/465ef5b3-70af-42b5-acc1-bc809761ee91"
+    },
+    {
+      "title": "المسعر حل 8 واجبات",
+      "description": "المسعر حل 8 واجبات",
+      "url": "https://iframe.mediadelivery.net/embed/519756/6ee9045b-4c03-4bb3-813d-c91728ba89cd"
+    },
+    {
+      "title": "المعادلة الكيميائية",
+      "description": "المعادلة الكيميائية",
+      "url": "https://iframe.mediadelivery.net/embed/519756/e0561958-25a1-4d5f-bb24-4613b79586e7"
+    },
+    {
+      "title": "انثالبي التكوين القياسية - الجزء الأول",
+      "description": "انثالبي التكوين القياسية - الجزء الأول",
+      "url": "https://iframe.mediadelivery.net/embed/519756/f52caffc-a7b2-4097-9e5b-36a828aa55a8"
+    },
+    {
+      "title": "انثالبي التكوين القياسية - الجزء الثاني",
+      "description": "انثالبي التكوين القياسية - الجزء الثاني",
+      "url": "https://iframe.mediadelivery.net/embed/519756/07eb6e82-c355-47b3-8f4a-88f8adb5acad"
+    },
+    {
+      "title": "انثالبي الاحتراق القياسية - الجزء الأول",
+      "description": "انثالبي الاحتراق القياسية - الجزء الأول",
+      "url": "https://iframe.mediadelivery.net/embed/519756/daca4be5-654c-42cf-b239-3c4466f676d7"
+    },
+    {
+      "title": "انثالبي الاحتراق القياسية - الجزء الثاني",
+      "description": "انثالبي الاحتراق القياسية - الجزء الثاني",
+      "url": "https://iframe.mediadelivery.net/embed/519756/92a8e3ae-dbd6-4b09-9a3a-0dac7edeea2f"
+    },
+    {
+      "title": "مراجعة التكوين و الاحتراق",
+      "description": "مراجعة التكوين و الاحتراق",
+      "url": "https://iframe.mediadelivery.net/embed/519756/a30f719d-160f-4bd8-b198-a0134a3d348e"
+    },
+    {
+      "title": "انثالبي التغيرات الفيزيائية",
+      "description": "انثالبي التغيرات الفيزيائية",
+      "url": "https://iframe.mediadelivery.net/embed/519756/54ec7afb-5a30-4ba0-8c8d-70a67993294d"
+    },
+    {
+      "title": "قانون هيس مقدمة و حل مسألتين",
+      "description": "قانون هيس مقدمة و حل مسألتين",
+      "url": "https://iframe.mediadelivery.net/embed/519756/1a54362a-3016-4555-ae8b-cacff2e5c48e"
+    },
+    {
+      "title": "قانون هيس حل 6 مسائل",
+      "description": "قانون هيس حل 6 مسائل",
+      "url": "https://iframe.mediadelivery.net/embed/519756/70ff26d5-344f-4a95-9b74-32eaeb6575a3"
+    },
+    {
+      "title": "قانون هيس حل 5 مسائل",
+      "description": "قانون هيس حل 5 مسائل",
+      "url": "https://iframe.mediadelivery.net/embed/519756/36195d70-3796-4ddd-aaeb-bd48810b5e97"
+    },
+    {
+      "title": "قانون هيس 6 حل مسائل",
+      "description": "قانون هيس 6 حل مسائل",
+      "url": "https://iframe.mediadelivery.net/embed/519756/11e8ce55-8ccc-40b0-9785-3a55e2ce71d6"
+    },
+    {
+      "title": "قانون هيس - شرحيات",
+      "description": "قانون هيس - شرحيات",
+      "url": "https://iframe.mediadelivery.net/embed/519756/1144aaab-5f56-4b31-83f6-28ef23973c36"
+    },
+    {
+      "title": "مراجعة هيس كامل",
+      "description": "مراجعة هيس كامل",
+      "url": "https://iframe.mediadelivery.net/embed/519756/f9f9232f-e00e-4d3e-9e4a-6f2a568f99c1"
+    },
+    {
+      "title": "قانون سميشن",
+      "description": "قانون سميشن",
+      "url": "https://iframe.mediadelivery.net/embed/519756/2fa84779-b79f-45a7-8e6c-d4bbee8e4b22"
+    },
+    {
+      "title": "شوكت نحل بهيس و شوكت نحل بسميشن",
+      "description": "شوكت نحل بهيس و شوكت نحل بسميشن",
+      "url": "https://iframe.mediadelivery.net/embed/519756/28e658b2-607c-45d6-8400-fee3583ee497"
+    },
+    {
+      "title": "العمليات التلقائية",
+      "description": "العمليات التلقائية",
+      "url": "https://iframe.mediadelivery.net/embed/519756/e6536da9-9357-42ca-b3c7-ac9978cd5512"
+    },
+    {
+      "title": "الانتروبي",
+      "description": "الانتروبي",
+      "url": "https://iframe.mediadelivery.net/embed/519756/bc08717a-d397-4987-9a2c-be0e3123b7ba"
+    },
+    {
+      "title": "طاقة كبس - المقدمة",
+      "description": "طاقة كبس - المقدمة",
+      "url": "https://iframe.mediadelivery.net/embed/519756/0da605d7-b4c6-43e5-9822-42d90d3bc917"
+    },
+    {
+      "title": "علاقة كبس 1",
+      "description": "علاقة كبس 1",
+      "url": "https://iframe.mediadelivery.net/embed/519756/dd2b07bb-ae04-4afb-9916-7850137d6982"
+    },
+    {
+      "title": "علاقة گبس 2",
+      "description": "علاقة گبس 2",
+      "url": "https://iframe.mediadelivery.net/embed/519756/a4f5a65d-8533-4153-8ce4-fe54fa588300"
+    },
+    {
+      "title": "علاقة كبس 3",
+      "description": "علاقة كبس 3",
+      "url": "https://iframe.mediadelivery.net/embed/519756/10e2a929-6ced-4570-93bb-fc0e5b890bc7"
+    },
+    {
+      "title": "تطبيقات معادلة كبس",
+      "description": "تطبيقات معادلة كبس",
+      "url": "https://iframe.mediadelivery.net/embed/519756/0a3bdc46-0dab-48ad-9da3-a81984e228b6"
+    },
+    {
+      "title": "تعاليل علاقة كبس",
+      "description": "تعاليل علاقة كبس",
+      "url": "https://iframe.mediadelivery.net/embed/519756/6f4c1f2d-c244-4095-a3b0-ab9262d90ab2"
+    },
+    {
+      "title": "مسائل تطبيقات كبس",
+      "description": "مسائل تطبيقات كبس",
+      "url": "https://iframe.mediadelivery.net/embed/519756/0d5fc041-2522-4920-bdd1-7da26382f091"
+    },
+    {
+      "title": "حساب انتروبي التغيرات الفيزيائية",
+      "description": "حساب انتروبي التغيرات الفيزيائية",
+      "url": "https://iframe.mediadelivery.net/embed/519756/d84ac152-35c3-42e9-b8f5-8d9ff65f21fd"
             }
           ]
         },
@@ -185,160 +190,565 @@
           "name": " الفصل الثاني الاتزان الكيميائي",
           "lectures": [
             {
-              "title": "محاضرة 1 مقدمة الفصل الثاني شرحيات",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/f7eb6e19-2072-4160-b1d6-6ccf463bede9"
-            },
-            {
-              "title": "محاضرة 2",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/418c9ebf-f022-4cf1-8c91-823c4bf33f7b"
-            },
-            {
-              "title": "محاضرة 3",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/bf8ab298-1812-4ec3-aef3-42ffc6626a5a"
-            },
-            {
-              "title": "محاضرة 4",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/0f49c35e-d896-4e24-96f9-54100c132e2f"
-            },
-            {
-              "title": "محاضرة 5",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/79b85ac0-fadd-4f60-9628-760cd421d077"
-            },
-            {
-              "title": "المحاضرة 6",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/875e4632-f863-4117-b688-d48b069bfae9"
-            },
-            {
-              "title": "المحاضرة 7",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/486436bf-dc2d-4f04-83e9-877e05da6def"
-            },
-            {
-              "title": "محاضرة 8",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/90d42709-1ab2-4ffe-8916-2eb43ae1a4cd"
-            },
-            {
-              "title": "محاضرة 9",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/a3c2c0ac-1a72-4546-a737-ee67bbe5bc22"
-            },
-            {
-              "title": "محاضرة 10",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/df5f0bfe-d7ba-45dd-838a-b66d50062eec"
-            },
-            {
-              "title": "محاضرة 11",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/e79b4ed4-230c-4641-97db-cf507478f35b"
-            },
-            {
-              "title": "محاضرة 12",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/04fc3f84-49b8-4d3f-bbf8-ea80a779496a"
-            },
-            {
-              "title": "محاضرة 13",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/35b7f5f0-cc56-437f-b296-6dbc6486cd54"
-            },
-            {
-              "title": "محاضرة 14",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/d35d3351-da64-49d9-971f-c42e17f50f2d"
-            },
-            {
-              "title": "محاضرة 15",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/b33b93a2-90e5-4699-bc05-df04cefe0c0b"
-            },
-            {
-              "title": "محاضرة 16",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/db398f0e-84fd-48e7-b40f-e0288cd759a1"
-            },
-            {
-              "title": "محاضرة 17",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/4cab6e33-8b61-4d89-a272-2348ebefd627"
-            },
-            {
-              "title": "محاضرة 18",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/93b9bc3c-3732-45b8-a298-bf15dd2c4900"
-            },
-            {
-              "title": "المحاضرة 19",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/58410f6e-5c9d-4492-9426-44a75adfac27"
-            },
-            {
-              "title": "المحاضرة 20 اخر سوال بموضوع علاقة KC kp",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/0b569840-b3d1-47d2-9575-1f021a362435"
-            },
-            {
-              "title": "محاضرة 21 اهميه ثابت الاتزان",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/4e7192e0-742c-491b-a573-6c06bbf2c07a"
-            },
-            {
-              "title": "المحاضرة 22 العلاقة بين ثابت الاتزان وطريقة كتابه المعادلة",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/d2762eb0-c5c9-4fb0-a8e8-e95abbaf810f"
-            },
-            {
-              "title": "المحاضرة 23",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/a834e527-4c44-4187-a447-2bc8207edc04"
-            },
-            {
-              "title": "المحاضرة 24",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/1f9b1dfc-9289-44b2-b5b9-da1ae180c4bf"
-            },
-            {
-              "title": "المحاضرة 25",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/e13076ce-9a2f-4a48-93e2-e0c056430f14"
-            },
-            {
-              "title": "المحاضرة 26",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/5f8d9b5e-8d98-4aaa-94e3-13224ccefab7"
-            },
-            {
-              "title": "المحاضرة 27 العلاقة بين الطاقة الحرة G ∆ وحاصل التفاعل Q",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/4786735c-b84a-426f-ab5f-b26d4270a1a7"
-            },
-            {
-              "title": "المحاضرة 28 قاعدة لوشاتليه",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/a938ef36-f652-48e2-97c5-1f6fcd1f0a4d"
-            },
-            {
-              "title": "الحجم والضغط",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/42d3f3ab-c042-49e5-b83c-93f2cb50bff8"
-            },
-            {
-              "title": "محاضرة 30 ( مراجعة لوشاتليه وتكملة)",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/e058163b-c340-40ac-8de3-b06ce028722f"
-            },
-            {
-              "title": "محاضرة 31 اخر 5 اسئلة وملاحظات وختام الفصل الثاني",
-              "description": "ممكن تقرأ وماتسخت ؟",
-              "url": "https://iframe.mediadelivery.net/embed/515595/3aa9ceb9-4d89-494c-8c31-4fb50e07b4a5"
+         "title": "محاضرة 1 مقدمة الفصل الثاني شرحيات",
+      "description": "محاضرة 1 مقدمة الفصل الثاني شرحيات",
+      "url": "https://iframe.mediadelivery.net/embed/519756/3f63008e-e15c-4a87-991d-94450e9f304c"
+    },
+    {
+      "title": "محاضرة 2",
+      "description": "محاضرة 2",
+      "url": "https://iframe.mediadelivery.net/embed/519756/c35efc53-a9ad-40cf-b331-644ef6698edf"
+    },
+    {
+      "title": "محاضرة 3",
+      "description": "محاضرة 3",
+      "url": "https://iframe.mediadelivery.net/embed/519756/4b50bb01-d806-436a-b59a-2bd29ca077b6"
+    },
+    {
+      "title": "محاضرة 4",
+      "description": "محاضرة 4",
+      "url": "https://iframe.mediadelivery.net/embed/519756/c2406b6b-98a7-4a72-8cd4-93829cf18e48"
+    },
+    {
+      "title": "محاضرة 5",
+      "description": "محاضرة 5",
+      "url": "https://iframe.mediadelivery.net/embed/519756/390429f8-1769-4f9f-a47e-5a05f2972ee1"
+    },
+    {
+      "title": "المحاضرة 6",
+      "description": "المحاضرة 6",
+      "url": "https://iframe.mediadelivery.net/embed/519756/26bc1036-d300-4c0c-afca-d0aa92c5936c"
+    },
+    {
+      "title": "المحاضرة 7",
+      "description": "المحاضرة 7",
+      "url": "https://iframe.mediadelivery.net/embed/519756/b768c2dc-ea8b-4669-b734-bcc662a31d4d"
+    },
+    {
+      "title": "محاضرة 8",
+      "description": "محاضرة 8",
+      "url": "https://iframe.mediadelivery.net/embed/519756/fe3587c4-b91e-4c3e-9c1e-e780db29eda0"
+    },
+    {
+      "title": "محاضرة 9",
+      "description": "محاضرة 9",
+      "url": "https://iframe.mediadelivery.net/embed/519756/dc3cf670-1242-4136-9bf8-db863ab37165"
+    },
+    {
+      "title": "محاضرة 10",
+      "description": "محاضرة 10",
+      "url": "https://iframe.mediadelivery.net/embed/519756/dc8a342e-b85e-49ef-8d9c-0abdcf5de1ac"
+    },
+    {
+      "title": "محاضرة 11",
+      "description": "محاضرة 11",
+      "url": "https://iframe.mediadelivery.net/embed/519756/39eea157-d31f-4210-81b4-e7f34efe3ff4"
+    },
+    {
+      "title": "محاضرة 12",
+      "description": "محاضرة 12",
+      "url": "https://iframe.mediadelivery.net/embed/519756/02744d97-4068-410d-894b-b9d50ff77ee2"
+    },
+    {
+      "title": "محاضرة 13",
+      "description": "محاضرة 13",
+      "url": "https://iframe.mediadelivery.net/embed/519756/ed736047-8557-4285-9980-e5261f5e3b41"
+    },
+    {
+      "title": "محاضرة 14",
+      "description": "محاضرة 14",
+      "url": "https://iframe.mediadelivery.net/embed/519756/70fd33f9-f0ee-405a-8d7e-94900aaf0637"
+    },
+    {
+      "title": "محاضرة 15",
+      "description": "محاضرة 15",
+      "url": "https://iframe.mediadelivery.net/embed/519756/9854f49b-869f-4df4-8c84-b2061215fbf1"
+    },
+    {
+      "title": "محاضرة 16",
+      "description": "محاضرة 16",
+      "url": "https://iframe.mediadelivery.net/embed/519756/be7cf413-a73f-4cd3-b0f7-d6d12f8296f4"
+    },
+    {
+      "title": "محاضرة 17",
+      "description": "محاضرة 17",
+      "url": "https://iframe.mediadelivery.net/embed/519756/10fe2269-7cda-43f2-8538-224481611a39"
+    },
+    {
+      "title": "محاضرة 18",
+      "description": "محاضرة 18",
+      "url": "https://iframe.mediadelivery.net/embed/519756/d1b80c87-70ef-422b-898a-6d92244625ad"
+    },
+    {
+      "title": "المحاضرة 19",
+      "description": "المحاضرة 19",
+      "url": "https://iframe.mediadelivery.net/embed/519756/413a1395-6c11-41bb-820b-1e6d39c7fd05"
+    },
+    {
+      "title": "المحاضرة 20 اخر سوال بموضوع علاقة KC kp",
+      "description": "المحاضرة 20 اخر سوال بموضوع علاقة KC kp",
+      "url": "https://iframe.mediadelivery.net/embed/519756/27a48ffa-32a2-4212-890e-e982ac9b6099"
+    },
+    {
+      "title": "محاضرة 21 اهميه ثابت الاتزان",
+      "description": "محاضرة 21 اهميه ثابت الاتزان",
+      "url": "https://iframe.mediadelivery.net/embed/519756/f31ac82a-847a-421e-aee6-9223e27e24a4"
+    },
+    {
+      "title": "المحاضرة 22 العلاقة بين ثابت الاتزان وطريقة كتابه المعادلة",
+      "description": "المحاضرة 22 العلاقة بين ثابت الاتزان وطريقة كتابه المعادلة",
+      "url": "https://iframe.mediadelivery.net/embed/519756/ac792292-5877-43fc-aec7-8e31970fb11a"
+    },
+    {
+      "title": "المحاضرة 23",
+      "description": "المحاضرة 23",
+      "url": "https://iframe.mediadelivery.net/embed/519756/b4269f2b-fbb1-48aa-a589-0082ac89d5af"
+    },
+    {
+      "title": "المحاضرة 24",
+      "description": "المحاضرة 24",
+      "url": "https://iframe.mediadelivery.net/embed/519756/fd9db667-7241-4aab-b7eb-1ff79af6c398"
+    },
+    {
+      "title": "المحاضرة 25",
+      "description": "المحاضرة 25",
+      "url": "https://iframe.mediadelivery.net/embed/519756/ee013b65-ab9c-4564-945a-e1815673507d"
+    },
+    {
+      "title": "المحاضرة 26",
+      "description": "المحاضرة 26",
+      "url": "https://iframe.mediadelivery.net/embed/519756/f0b51063-3286-4a64-96a3-0f0cc55869ae"
+    },
+    {
+      "title": "المحاضرة 27 العلاقة بين الطاقة الحرة G ∆ وحاصل التفاعل Q",
+      "description": "المحاضرة 27 العلاقة بين الطاقة الحرة G ∆ وحاصل التفاعل Q",
+      "url": "https://iframe.mediadelivery.net/embed/519756/33950ce8-2df7-4c86-89d9-5b73c16c1832"
+    },
+    {
+      "title": "المحاضرة 28 قاعدة لوشاتليه",
+      "description": "المحاضرة 28 قاعدة لوشاتليه",
+      "url": "https://iframe.mediadelivery.net/embed/519756/58f08333-9e40-4baa-a5a7-788e61cbd937"
+    },
+    {
+      "title": "الحجم والضغط",
+      "description": "الحجم والضغط",
+      "url": "https://iframe.mediadelivery.net/embed/519756/5b36f2a3-88f2-4c96-87f7-6540d18da8ba"
+    },
+    {
+      "title": "محاضرة 30 ( مراجعة لوشاتليه وتكملة)",
+      "description": "محاضرة 30 ( مراجعة لوشاتليه وتكملة)",
+      "url": "https://iframe.mediadelivery.net/embed/519756/9ea8d93c-a2c2-4d09-8f12-ad195c05fa87"
+    },
+    {
+      "title": "محاضرة 31 اخر 5 اسئلة وملاحظات وختام الفصل الثاني",
+      "description": "محاضرة 31 اخر 5 اسئلة وملاحظات وختام الفصل الثاني",
+      "url": "https://iframe.mediadelivery.net/embed/519756/f2ef784b-6a15-47dc-ac92-5259ea5fbb29"
             }
+          ]
+        },
+        {
+          "name": " الفصل الثالث",
+          "lectures": [
+            {
+        "title": "محاضرة رقم 1",
+      "description": "ممكن تقرأ وماتسخت ؟",
+      "url": "https://iframe.mediadelivery.net/embed/544869/d7cf47c5-184c-4690-ae8c-0ca0ddaf44ae"
+    },
+    {
+      "title": "محاضرة رقم 2",
+      "description": "ممكن تقرأ وماتسخت ؟",
+      "url": "https://iframe.mediadelivery.net/embed/544869/c6401e7c-b7dd-450c-b95a-4e6844b58841"
+    },
+    {
+      "title": "محاضرة رقم 3",
+      "description": "ممكن تقرأ وماتسخت ؟",
+      "url": "https://iframe.mediadelivery.net/embed/544869/e793a036-86d9-4018-bdf2-f271a870c621"
+    },
+    {
+      "title": "محاضرة رقم 4",
+      "description": "ممكن تقرأ وماتسخت ؟",
+      "url": "https://iframe.mediadelivery.net/embed/544869/1b121c63-65c0-4b80-a88c-15da5c6febc0"
+    },
+    {
+      "title": "محاضرة رقم 5",
+      "description": "ممكن تقرأ وماتسخت ؟",
+      "url": "https://iframe.mediadelivery.net/embed/544869/4c3cd9ca-25fd-4f28-ac8d-4060f47ebcdb"
+    },
+    {
+      "title": "محاضرة رقم 6",
+      "description": "ممكن تقرأ وماتسخت ؟",
+      "url": "https://iframe.mediadelivery.net/embed/544869/4917dcca-70c5-41b4-bac4-c6a380dae42d"
+    },
+    {
+      "title": "محاضرة رقم 7",
+      "description": "ممكن تقرأ وماتسخت ؟",
+      "url": "https://iframe.mediadelivery.net/embed/544869/044e9d49-0e1e-4941-8fca-fccb00db3565"
+    },
+    {
+      "title": "محاضرة رقم 8",
+      "description": "ممكن تقرأ وماتسخت ؟",
+      "url": "https://iframe.mediadelivery.net/embed/544869/77c2b101-3046-4025-968a-a92e28201790"
+    },
+    {
+      "title": "محاضرة رقم 9",
+      "description": "ممكن تقرأ وماتسخت ؟",
+      "url": "https://iframe.mediadelivery.net/embed/544869/9835ff7b-1859-4569-a6ec-e81f1fa54686"
+    },
+    {
+      "title": "محاضرة رقم 10",
+      "description": "ممكن تقرأ وماتسخت ؟",
+      "url": "https://iframe.mediadelivery.net/embed/544869/ba4e4837-5823-4530-9ff0-6fe47b117d52"
+    },
+    {
+      "title": "محاضرة رقم 11",
+      "description": "ممكن تقرأ وماتسخت ؟",
+      "url": "https://iframe.mediadelivery.net/embed/544869/8bc723e1-ade9-4c65-85d1-eb6da5464c5d"
+    },
+    {
+      "title": "محاضرة رقم 12",
+      "description": "ممكن تقرأ وماتسخت ؟",
+      "url": "https://iframe.mediadelivery.net/embed/544869/8144beb8-9afa-41be-967c-d0219e129d02"
+    },
+    {
+      "title": "محاضرة رقم 13",
+      "description": "ممكن تقرأ وماتسخت ؟",
+      "url": "https://iframe.mediadelivery.net/embed/544869/64a65ddc-7002-45ec-922d-f9c269d2a69b"
+    },
+    {
+      "title": "محاضرة رقم 14",
+      "description": "ممكن تقرأ وماتسخت ؟",
+      "url": "https://iframe.mediadelivery.net/embed/544869/5f1a09ac-196e-4136-abd4-122b95cf246a"
+    },
+    {
+      "title": "محاضرة رقم 15",
+      "description": "ممكن تقرأ وماتسخت ؟",
+      "url": "https://iframe.mediadelivery.net/embed/544869/9c5b9438-8ab7-4ba5-9496-c2f145c22a77"
+    },
+    {
+      "title": "محاضرة رقم 16",
+      "description": "ممكن تقرأ وماتسخت ؟",
+      "url": "https://iframe.mediadelivery.net/embed/544869/293650f6-a999-4140-9335-8be8d86b144d"
+    },
+    {
+      "title": "محاضرة رقم 17",
+      "description": "ممكن تقرأ وماتسخت ؟",
+      "url": "https://iframe.mediadelivery.net/embed/544869/0f6ec194-e2a6-455b-b668-9728de43705c"
+    },
+    {
+      "title": "محاضرة رقم 18",
+      "description": "ممكن تقرأ وماتسخت ؟",
+      "url": "https://iframe.mediadelivery.net/embed/544869/dce263c2-eddd-4b43-84a2-808aceb0c180"
+    },
+    {
+      "title": "محاضرة رقم 19",
+      "description": "ممكن تقرأ وماتسخت ؟",
+      "url": "https://iframe.mediadelivery.net/embed/544869/797e6908-2321-44a5-94d6-2f665068c9d5"
+    },
+    {
+      "title": "محاضرة رقم 20",
+      "description": "ممكن تقرأ وماتسخت ؟",
+      "url": "https://iframe.mediadelivery.net/embed/544869/e5198c3f-63c3-4236-834b-3ddd1ff5f3f9"
+    },
+    {
+      "title": "محاضرة رقم 21",
+      "description": "ممكن تقرأ وماتسخت ؟",
+      "url": "https://iframe.mediadelivery.net/embed/544869/02ca4662-9949-4f4c-bff7-c68a13960e7e"
+    },
+    {
+      "title": "محاضرة رقم 22",
+      "description": "ممكن تقرأ وماتسخت ؟",
+      "url": "https://iframe.mediadelivery.net/embed/544869/eb417dd1-fd8c-4a52-951c-86743ec964cc"
+    },
+    {
+      "title": "محاضرة رقم 23",
+      "description": "ممكن تقرأ وماتسخت ؟",
+      "url": "https://iframe.mediadelivery.net/embed/544869/b2e19695-4782-4bbd-af18-b6decfdb8726"
+    },
+    {
+      "title": "محاضرة رقم 24",
+      "description": "ممكن تقرأ وماتسخت ؟",
+      "url": "https://iframe.mediadelivery.net/embed/544869/cda9237b-3c90-491c-b774-37123dd7dde4"
+    },
+    {
+      "title": "محاضرة رقم 25",
+      "description": "ممكن تقرأ وماتسخت ؟",
+      "url": "https://iframe.mediadelivery.net/embed/544869/c09e984a-45be-410f-b86b-b3f6e5c0c745"
+    },
+    {
+      "title": "محاضرة رقم 26",
+      "description": "ممكن تقرأ وماتسخت ؟",
+      "url": "https://iframe.mediadelivery.net/embed/544869/73b20b26-77b1-4a8e-85e9-4253c73272ce"
+    },
+    {
+      "title": "محاضرة رقم 27",
+      "description": "ممكن تقرأ وماتسخت ؟",
+      "url": "https://iframe.mediadelivery.net/embed/544869/c980f5b4-6d9c-4b79-833a-b3ff9bda3469"
+    },
+    {
+      "title": "محاضرة رقم 28",
+      "description": "ممكن تقرأ وماتسخت ؟",
+      "url": "https://iframe.mediadelivery.net/embed/544869/d75f1d19-45ed-4de7-85c9-6ff5375c90f4"
+    },
+    {
+      "title": "محاضرة رقم 29",
+      "description": "ممكن تقرأ وماتسخت ؟",
+      "url": "https://iframe.mediadelivery.net/embed/544869/a71ec6f4-1202-411c-86b6-dae73ea901fa"
+    },
+    {
+      "title": "محاضرة رقم 30",
+      "description": "ممكن تقرأ وماتسخت ؟",
+      "url": "https://iframe.mediadelivery.net/embed/544869/3fbb2433-fe75-4265-8aba-9199cb0141de"
+    },
+    {
+      "title": "محاضرة رقم 31",
+      "description": "ممكن تقرأ وماتسخت ؟",
+      "url": "https://iframe.mediadelivery.net/embed/544869/04094862-abee-46d4-8f9a-086b3fc7d0e7"
+    },
+    {
+      "title": "محاضرة رقم 32 – شرحيات ف3",
+      "description": "ممكن تقرأ وماتسخت ؟",
+      "url": "https://iframe.mediadelivery.net/embed/544869/ffc7cb77-2d85-4cf3-bc71-bd68fa15f0f5"
+    },
+    {
+      "title": "محاضرة رقم 33 – شرحيات ف3",
+      "description": "محاضرة رقم 33 – شرحيات ف3",
+      "url": "https://iframe.mediadelivery.net/embed/544869/99e61094-870d-4c6d-becc-79ef065c9d79"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1742210623732,
+      "name": "عقيل الزبيدي 2025",
+      "subject": "33",
+      "image": "https://zockto.b-cdn.net/Picsart_25-10-29_10-28-35-859.jpg",
+      "classes": [
+        {
+          "name": "الاستفهام",
+          "lectures": [
+            {
+             "title": "محاضرة رقم 1",
+    "description": "محاضرة رقم 1",
+    "url": "https://vz-2d153850-243.b-cdn.net/213cec68-b282-4c42-a56b-804cd524a603/play_720p.mp4"
+  },
+  {
+    "title": "محاضرة رقم 2",
+    "description": "محاضرة رقم 2",
+    "url": "https://vz-2d153850-243.b-cdn.net/2fbdf134-db33-4fda-af43-c03481ce3511/play_720p.mp4"
+  },
+  {
+    "title": "محاضرة رقم 3",
+    "description": "محاضرة رقم 3",
+    "url": "https://vz-2d153850-243.b-cdn.net/53e5fd6a-6896-4487-a35d-1b5bc8bbcc23/play_720p.mp4"
+  },
+  {
+    "title": "محاضرة رقم 4",
+    "description": "محاضرة رقم 4",
+    "url": "https://vz-2d153850-243.b-cdn.net/eb00646e-9816-49a3-a32a-b1aa5aea2ff5/play_720p.mp4"
+  },
+  {
+    "title": "محاضرة رقم 5",
+    "description": "محاضرة رقم 5",
+    "url": "https://vz-2d153850-243.b-cdn.net/582bd17b-552d-438e-b85a-6143c42941c7/play_720p.mp4"
+  },
+  {
+    "title": "محاضرة رقم 6",
+    "description": "محاضرة رقم 6",
+    "url": "https://vz-2d153850-243.b-cdn.net/708d6db4-9dba-48d7-b7f3-dd400c0912ad/play_720p.mp4"
+  },
+  {
+    "title": "محاضرة رقم 7",
+    "description": "محاضرة رقم 7",
+    "url": "https://vz-2d153850-243.b-cdn.net/764d7e9f-1ad0-493f-a485-2965d4b9c89b/play_720p.mp4"
+  },
+  {
+    "title": "محاضرة رقم 8",
+    "description": "محاضرة رقم 8",
+    "url": "https://vz-2d153850-243.b-cdn.net/873c36a1-b590-4c06-9cdb-cd86f619a600/play_720p.mp4"
+  },
+  {
+    "title": "محاضرة رقم 9",
+    "description": "محاضرة رقم 9",
+    "url": "https://vz-2d153850-243.b-cdn.net/444dc89c-96f4-490b-9589-db24da847ed4/play_720p.mp4"
+  },
+  {
+    "title": "محاضرة رقم 10",
+    "description": "محاضرة رقم 10",
+    "url": "https://vz-2d153850-243.b-cdn.net/d952f346-ff30-4208-8beb-957a8e0a3e85/play_720p.mp4"
+  },
+  {
+    "title": "محاضرة رقم 11",
+    "description": "محاضرة رقم 11",
+    "url": "https://vz-2d153850-243.b-cdn.net/fe794ba6-281a-486a-a891-33f1149cbb05/play_720p.mp4"
+  },
+  {
+    "title": "محاضرة رقم 12",
+    "description": "محاضرة رقم 12",
+    "url": "https://vz-2d153850-243.b-cdn.net/08c5a3c8-b848-4526-a757-78dafcd717db/play_720p.mp4"
+  },
+  {
+    "title": "محاضرة رقم 13",
+    "description": "محاضرة رقم 13",
+    "url": "https://vz-2d153850-243.b-cdn.net/f7d4334d-53d4-4166-9650-6589d9b953b8/play_720p.mp4"
+  },
+  {
+    "title": "محاضرة رقم 14",
+    "description": "محاضرة رقم 14",
+    "url": "https://vz-2d153850-243.b-cdn.net/bcc97223-1904-4475-b698-bbc6b23ec622/play_720p.mp4"
+  },
+  {
+    "title": "محاضرة رقم 15",
+    "description": "محاضرة رقم 15",
+    "url": "https://vz-2d153850-243.b-cdn.net/735b6f37-00c9-4959-a300-43800dedc102/play_720p.mp4"
+  },
+  {
+    "title": "محاضرة رقم 16",
+    "description": "محاضرة رقم 16",
+    "url": "https://vz-2d153850-243.b-cdn.net/c7d77590-ec6a-4b0a-b688-def95e647d0c/play_720p.mp4"
+  },
+  {
+    "title": "محاضرة رقم 17",
+    "description": "محاضرة رقم 17",
+    "url": "https://vz-2d153850-243.b-cdn.net/4a2c4702-cd5e-4c21-90b0-904ec3ea4f46/play_720p.mp4"
+  },
+  {
+    "title": "محاضرة رقم 18",
+    "description": "محاضرة رقم 18",
+    "url": "https://vz-2d153850-243.b-cdn.net/45b4dc55-50d6-46a4-909d-b9184075b242/play_720p.mp4"
+  },
+  {
+    "title": "محاضرة رقم 19",
+    "description": "محاضرة رقم 19",
+    "url": "https://vz-2d153850-243.b-cdn.net/704fb8f5-901c-4347-8ed4-e00c3548b0cc/play_720p.mp4"
+  },
+  {
+    "title": "محاضرة رقم 20",
+    "description": "محاضرة رقم 20",
+    "url": "https://vz-2d153850-243.b-cdn.net/510d7461-d22f-42c0-94de-b1ed46a6adcd/play_720p.mp4"
+  },
+  {
+    "title": "محاضرة رقم 21",
+    "description": "محاضرة رقم 21",
+    "url": "https://vz-2d153850-243.b-cdn.net/945a94cf-45cd-4cbb-97f2-28847dce8f8e/play_720p.mp4"
+  },
+  {
+    "title": "محاضرة رقم 22",
+    "description": "محاضرة رقم 22",
+    "url": "https://vz-2d153850-243.b-cdn.net/0122da67-98fc-443e-a161-a861a1d6f640/play_720p.mp4"
+  },
+  {
+    "title": "محاضرة رقم 23",
+    "description": "محاضرة رقم 23",
+    "url": "https://vz-2d153850-243.b-cdn.net/bc077a94-18a2-4e27-9201-c826a1007fdb/play_720p.mp4"
+  },
+  {
+    "title": "محاضرة رقم 24",
+    "description": "محاضرة رقم 24",
+    "url": "https://vz-2d153850-243.b-cdn.net/d4914a73-5978-4585-8fe4-7d2015e968de/play_720p.mp4"
+  },
+  {
+    "title": "محاضرة رقم 25",
+    "description": "محاضرة رقم 25",
+    "url": "https://vz-2d153850-243.b-cdn.net/38113672-1184-41e7-9266-949197e384e8/play_720p.mp4"
+  },
+  {
+    "title": "محاضرة رقم 26",
+    "description": "محاضرة رقم 26",
+    "url": "https://vz-2d153850-243.b-cdn.net/e2b42083-30ab-4041-a1e9-ac49c6660bbe/play_720p.mp4"
+             }
+          ]
+        },
+        {
+          "name": " النفي ",
+          "lectures": [
+            {
+      "title": "محاضرة رقم 1",
+    "description": "محاضرة رقم 1",
+    "url": "https://iframe.mediadelivery.net/embed/519756/9aa4cb4e-720a-41fe-b236-d8df38d4bb2e"
+  },
+  {
+    "title": "محاضرة رقم 2",
+    "description": "محاضرة رقم 2",
+    "url": "https://iframe.mediadelivery.net/embed/519756/6f81c44b-bd67-48ca-9be1-c0f41d77bb92"
+  },
+  {
+    "title": "محاضرة رقم 3",
+    "description": "محاضرة رقم 3",
+    "url": "https://iframe.mediadelivery.net/embed/519756/40929279-834e-4436-80a5-2dc314872de0"
+  },
+  {
+    "title": "محاضرة رقم 4",
+    "description": "محاضرة رقم 4",
+    "url": "https://iframe.mediadelivery.net/embed/519756/6304d3da-e385-4c6e-9dce-593b7bfd9473"
+  },
+  {
+    "title": "محاضرة رقم 5",
+    "description": "محاضرة رقم 5",
+    "url": "https://iframe.mediadelivery.net/embed/519756/2d1ea4ec-e4ca-465a-9e50-f5564821a2cf"
+  },
+  {
+    "title": "محاضرة رقم 6",
+    "description": "محاضرة رقم 6",
+    "url": "https://iframe.mediadelivery.net/embed/519756/ab136dd1-c612-475e-a55a-dbc44e61ef76"
+  },
+  {
+    "title": "محاضرة رقم 7",
+    "description": "محاضرة رقم 7",
+    "url": "https://iframe.mediadelivery.net/embed/519756/1b3f77c9-a19b-4984-9969-6a8f5cfb8cd8"
+  },
+  {
+    "title": "محاضرة رقم 8",
+    "description": "محاضرة رقم 8",
+    "url": "https://iframe.mediadelivery.net/embed/519756/1805e774-9f4a-4282-96be-66c1bdf78ae3"
+  },
+  {
+    "title": "محاضرة رقم 9",
+    "description": "محاضرة رقم 9",
+    "url": "https://iframe.mediadelivery.net/embed/519756/eb5f714d-fa32-43b0-9ca5-0a3e1489900c"
+  },
+  {
+    "title": "محاضرة رقم 10",
+    "description": "محاضرة رقم 10",
+    "url": "https://iframe.mediadelivery.net/embed/519756/19e90dd2-d7c7-4aea-93a9-b1bf82a9e271"
+  },
+  {
+    "title": "محاضرة رقم 11",
+    "description": "محاضرة رقم 11",
+    "url": "https://iframe.mediadelivery.net/embed/519756/7f907d84-bad8-4ae8-b2a8-bf2ccd6386a5"
+  },
+  {
+    "title": "محاضرة رقم 12",
+    "description": "محاضرة رقم 12",
+    "url": "https://iframe.mediadelivery.net/embed/519756/5578afb1-9580-4282-b7d8-0d5f93cb8782"
+  },
+  {
+    "title": "محاضرة رقم 13",
+    "description": "محاضرة رقم 13",
+    "url": "https://iframe.mediadelivery.net/embed/519756/85c69866-4825-4356-bc8c-59508cc6e3fa"
+  },
+  {
+    "title": "محاضرة رقم 14",
+    "description": "محاضرة رقم 14",
+    "url": "https://iframe.mediadelivery.net/embed/519756/b402ca6e-4bff-4b53-a31a-8b911365a55e"
+  },
+  {
+    "title": "محاضرة رقم 15",
+    "description": "محاضرة رقم 15",
+    "url": "https://iframe.mediadelivery.net/embed/519756/09c53ece-5edb-4bce-823a-bd2ec77ffe02"
+  },
+  {
+    "title": "محاضرة رقم 16",
+    "description": "محاضرة رقم 16",
+    "url": "https://iframe.mediadelivery.net/embed/519756/6631267a-1e67-465e-b96f-291e6942c092"
+  },
+  {
+    "title": "محاضرة رقم 17",
+    "description": "محاضرة رقم 17",
+    "url": "https://iframe.mediadelivery.net/embed/519756/f07ec48f-6eff-4009-8928-6c0fa16ab3e6"
+
+
+              }
           ]
         }
       ]
