@@ -1,0 +1,347 @@
+{
+  "teachers": [
+    {
+      "id": 1746651021373,
+      "name": "حسين الهاشمي",
+      "subject": "مدرس مادة كيمياء",
+      "image": "https://i.imghippo.com/files/TGx2155hFs.jpg",
+      "classes": [
+        {
+          "name": "الفصل الاول الثرموداينمك: ",
+          "lectures": [
+            {
+              "title": "محاضرة 1",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/82d7366c-bba2-4a60-b377-e59bf0bea441"
+            },
+            {
+              "title": "محاضرة 2",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/1bb437da-2110-452a-b572-ac13e92ed637"
+            },
+            {
+              "title": "محاضرة 3",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/457a4343-f2b1-408c-b637-1ba07456c82c"
+            },
+            {
+              "title": "محاضرة 4",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/41000010-812b-4930-8f4f-93bef1f4b83a"
+            },
+            {
+              "title": "محاضرة 5",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/41000010-812b-4930-8f4f-93bef1f4b83a"
+            },
+            {
+              "title": "محاضرة 6",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/8b6b2cf8-d496-496f-87b2-8231952a776f"
+            },
+            {
+              "title": "محاضرة 7",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/dba7ac35-fb3f-4369-80fe-2f3ce162a856"
+            },
+            {
+              "title": "محاضرة 8",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/0b74902d-ac63-4e07-b1fc-e1173ee4e27a"
+            },
+            {
+              "title": "محاضرة 9",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/b094bc48-0c1e-47af-824f-6c982456f6e2"
+            },
+            {
+              "title": "محاضرة 10",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/56dab9ad-5895-4d2f-b0d9-954396636b6e"
+            },
+            {
+              "title": "محاضرة 11",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/dca007ef-d836-4ae1-9b19-1789f467e954"
+            },
+            {
+              "title": "محاضرة 12",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/fc4301c0-20e3-46f1-b798-02522bb01b13"
+            },
+            {
+              "title": "محاضرة 13",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/530308d2-89b7-48ec-8430-78059e770415"
+            },
+            {
+              "title": "محاضرة 14",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/deb2e48c-212f-406c-920d-c54a553e859f"
+            },
+            {
+              "title": "محاضرة 15",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/edcb3c63-9a3b-4c0e-b22d-d62fec61da65"
+            },
+            {
+              "title": "محاضرة 16",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/019f3bb6-3f34-4eb3-aabf-565952ff8358"
+            },
+            {
+              "title": "محاضرة 17",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/9c3b258c-95b1-4eac-86c8-906a2b49e5d2"
+            },
+            {
+              "title": "محاضرة 18",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/9b00d228-35d0-4902-b8bd-f841b406cfef"
+            },
+            {
+              "title": "محاضرة 19",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/2a822543-62d3-44e1-9ef5-c618390e97af"
+            },
+            {
+              "title": "محاضرة 20",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/0d66491b-13f0-46b3-9991-4c653f244cf1"
+            },
+            {
+              "title": "محاضرة 21",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/cef6d851-cd64-4929-8498-4eba1677d600"
+            },
+            {
+              "title": "محاضرة 22",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/6c302788-2abc-4efd-9636-d374626bcc7b"
+            },
+            {
+              "title": "محاضرة 23",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/2604da96-1b5b-47f5-83f0-7d4dfae90920"
+            },
+            {
+              "title": "محاضرة 24",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/f95794f1-5091-440d-886b-1fb23f808b7f"
+            },
+            {
+              "title": "محاضرة 25",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/708aacb8-23b2-4a76-89fb-e8d721ea737a"
+            },
+            {
+              "title": "محاضرة 26",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/7dea3736-4193-42c1-a02b-5bb4e7cbbb34"
+            },
+            {
+              "title": "محاضرة 27",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/6a29aed9-c068-4d53-8dcc-80ad26f8a7e8"
+            },
+            {
+              "title": "محاضرة 28",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/d9c3b5ab-2e35-486d-b6a4-3756b7806923"
+            },
+            {
+              "title": "محاضرة 29",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/56226acd-92cc-4dc5-acbf-9c87a02e77cb"
+            },
+            {
+              "title": "محاضرة 30",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/fd92f5a6-d50f-4dc9-803a-f9a4562344df"
+            },
+            {
+              "title": "محاضرة 31",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/32bda2f4-f534-4c83-bcb5-1dfca6d88993"
+            },
+            {
+              "title": "محاضرة 32",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/ada56e22-8d7d-4830-a7c1-61aa34402205"
+            },
+            {
+              "title": "محاضرة 33",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/e27ccb07-1a34-48de-97f9-21d5043b880b"
+            },
+            {
+              "title": "محاضرة 34",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/a7268bfa-9c77-4a06-8ecd-07060713a471"
+            }
+          ]
+        },
+        {
+          "name": " الفصل الثاني الاتزان الكيميائي",
+          "lectures": [
+            {
+              "title": "محاضرة 1 مقدمة الفصل الثاني شرحيات",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/f7eb6e19-2072-4160-b1d6-6ccf463bede9"
+            },
+            {
+              "title": "محاضرة 2",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/418c9ebf-f022-4cf1-8c91-823c4bf33f7b"
+            },
+            {
+              "title": "محاضرة 3",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/bf8ab298-1812-4ec3-aef3-42ffc6626a5a"
+            },
+            {
+              "title": "محاضرة 4",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/0f49c35e-d896-4e24-96f9-54100c132e2f"
+            },
+            {
+              "title": "محاضرة 5",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/79b85ac0-fadd-4f60-9628-760cd421d077"
+            },
+            {
+              "title": "المحاضرة 6",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/875e4632-f863-4117-b688-d48b069bfae9"
+            },
+            {
+              "title": "المحاضرة 7",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/486436bf-dc2d-4f04-83e9-877e05da6def"
+            },
+            {
+              "title": "محاضرة 8",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/90d42709-1ab2-4ffe-8916-2eb43ae1a4cd"
+            },
+            {
+              "title": "محاضرة 9",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/a3c2c0ac-1a72-4546-a737-ee67bbe5bc22"
+            },
+            {
+              "title": "محاضرة 10",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/df5f0bfe-d7ba-45dd-838a-b66d50062eec"
+            },
+            {
+              "title": "محاضرة 11",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/e79b4ed4-230c-4641-97db-cf507478f35b"
+            },
+            {
+              "title": "محاضرة 12",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/04fc3f84-49b8-4d3f-bbf8-ea80a779496a"
+            },
+            {
+              "title": "محاضرة 13",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/35b7f5f0-cc56-437f-b296-6dbc6486cd54"
+            },
+            {
+              "title": "محاضرة 14",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/d35d3351-da64-49d9-971f-c42e17f50f2d"
+            },
+            {
+              "title": "محاضرة 15",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/b33b93a2-90e5-4699-bc05-df04cefe0c0b"
+            },
+            {
+              "title": "محاضرة 16",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/db398f0e-84fd-48e7-b40f-e0288cd759a1"
+            },
+            {
+              "title": "محاضرة 17",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/4cab6e33-8b61-4d89-a272-2348ebefd627"
+            },
+            {
+              "title": "محاضرة 18",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/93b9bc3c-3732-45b8-a298-bf15dd2c4900"
+            },
+            {
+              "title": "المحاضرة 19",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/58410f6e-5c9d-4492-9426-44a75adfac27"
+            },
+            {
+              "title": "المحاضرة 20 اخر سوال بموضوع علاقة KC kp",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/0b569840-b3d1-47d2-9575-1f021a362435"
+            },
+            {
+              "title": "محاضرة 21 اهميه ثابت الاتزان",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/4e7192e0-742c-491b-a573-6c06bbf2c07a"
+            },
+            {
+              "title": "المحاضرة 22 العلاقة بين ثابت الاتزان وطريقة كتابه المعادلة",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/d2762eb0-c5c9-4fb0-a8e8-e95abbaf810f"
+            },
+            {
+              "title": "المحاضرة 23",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/a834e527-4c44-4187-a447-2bc8207edc04"
+            },
+            {
+              "title": "المحاضرة 24",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/1f9b1dfc-9289-44b2-b5b9-da1ae180c4bf"
+            },
+            {
+              "title": "المحاضرة 25",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/e13076ce-9a2f-4a48-93e2-e0c056430f14"
+            },
+            {
+              "title": "المحاضرة 26",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/5f8d9b5e-8d98-4aaa-94e3-13224ccefab7"
+            },
+            {
+              "title": "المحاضرة 27 العلاقة بين الطاقة الحرة G ∆ وحاصل التفاعل Q",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/4786735c-b84a-426f-ab5f-b26d4270a1a7"
+            },
+            {
+              "title": "المحاضرة 28 قاعدة لوشاتليه",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/a938ef36-f652-48e2-97c5-1f6fcd1f0a4d"
+            },
+            {
+              "title": "الحجم والضغط",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/42d3f3ab-c042-49e5-b83c-93f2cb50bff8"
+            },
+            {
+              "title": "محاضرة 30 ( مراجعة لوشاتليه وتكملة)",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/e058163b-c340-40ac-8de3-b06ce028722f"
+            },
+            {
+              "title": "محاضرة 31 اخر 5 اسئلة وملاحظات وختام الفصل الثاني",
+              "description": "ممكن تقرأ وماتسخت ؟",
+              "url": "https://iframe.mediadelivery.net/embed/515595/3aa9ceb9-4d89-494c-8c31-4fb50e07b4a5"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
